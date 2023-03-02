@@ -1,0 +1,84 @@
+<resources>
+
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">220dp</dimen>
+    <dimen name="fab_margin">32dp</dimen>
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+    <dimen name="img_width_height">120dp</dimen>
+    <dimen name="slide_title">30dp</dimen>
+    <dimen name="slide_desc">16dp</dimen>
+    <dimen name="desc_padding">40dp</dimen>
+    <dimen name="logo_w_h">200dp</dimen>
+    <dimen name="dp80">120dp</dimen>
+    <dimen name="dp5">5dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp8">8dp</dimen>
+    <dimen name="dp60">60dp</dimen>
+    <dimen name="t16sp">16sp</dimen>
+    <dimen name="dp16">16dp</dimen>
+
+
+
+    <dimen name="xxsmall">2dp</dimen>
+    <dimen name="xsmall">4dp</dimen>
+    <dimen name="small">8dp</dimen>
+    <dimen name="normal">10dp</dimen>
+    <dimen name="medium">24dp</dimen>
+    <dimen name="large">32dp</dimen>
+    <dimen name="xlarge">48dp</dimen>
+    <dimen name="xxlarge">56dp</dimen>
+
+
+    <dimen name="list_item_icon_size">60dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+    <dimen name="dp15">15dp</dimen>
+    <dimen name="dp40">40dp</dimen>
+    <dimen name="dp17">17dp</dimen>
+    <dimen name="dp2">2dp</dimen>
+    <dimen name="nav_width">320dp</dimen>
+    <dimen name="dp100">100dp</dimen>
+    <dimen name="dp130">130dp</dimen>
+    <dimen name="dp120">120dp</dimen>
+    <dimen name="_5sdp">5dp</dimen>
+    <dimen name="_12sdp">12dp</dimen>
+    <dimen name="_20sdp">20dp</dimen>
+    <dimen name="_13sdp">13dp</dimen>
+    <dimen name="dp30">30dp</dimen>
+    <dimen name="dp350">350dp</dimen>
+    <dimen name="dp50">50dp</dimen>
+    <dimen name="dp35">35dp</dimen>
+    <dimen name="dp45">45dp</dimen>
+    <dimen name="dp250">250dp</dimen>
+    <dimen name="dp200">200dp</dimen>
+    <dimen name="dp150">150dp</dimen>
+    <dimen name="dp70_">-70dp</dimen>
+    <dimen name="dp50_">-50dp</dimen>
+    <dimen name="dp125_">-125dp</dimen>
+    <dimen name="t18sp">18sp</dimen>
+    <dimen name="dp70">70dp</dimen>
+    <dimen name="dp25">25dp</dimen>
+    <dimen name="dp1">1dp</dimen>
+    <dimen name="dp14">14dp</dimen>
+
+
+
+
+    <dimen name="standard_12">15dp</dimen>
+    <dimen name="standard_23">30dp</dimen>
+    <dimen name="standard_55">65dp</dimen>
+    <dimen name="standard_100">120dp</dimen>
+    <dimen name="standard_145">175dp</dimen>
+    <dimen name="dp260">260dp</dimen>
+    <dimen name="dialog_width">250dp</dimen>
+    <dimen name="dp170">170dp</dimen>
+    <dimen name="dp180">180dp</dimen>
+    <dimen name="dp11">11dp</dimen>
+    <dimen name="dp140">140dp</dimen>
+    <dimen name="sp30">30sp</dimen>
+    <dimen name="sp40">40sp</dimen>
+    <dimen name="sp25">25sp</dimen>
+    <dimen name="sp22">22sp</dimen>
+
+
+</resources>

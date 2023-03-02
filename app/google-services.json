@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628313321965",
+    "project_id": "my-safe-b1483",
+    "storage_bucket": "my-safe-b1483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628313321965:android:c15818c3b1f42f0bb8f7e4",
+        "android_client_info": {
+          "package_name": "com.rgi.zone4live2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628313321965-1t7grcucpdhstsso2pooc8ks1dtccevk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAisnNGKcyYyOR9I9QAx1GXiRp_Do1HeIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628313321965-1t7grcucpdhstsso2pooc8ks1dtccevk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

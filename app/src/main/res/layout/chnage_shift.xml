@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/rbSh1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:checked="false"
+                android:textColor="@color/color_primary_dark"
+                android:text="  DAY"
+                android:textSize="20dp" />
+
+            <RadioButton
+                android:id="@+id/rbSh2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:checked="false"
+                android:textColor="@color/color_primary_dark"
+                android:text="   NIGHT"
+                android:textSize="20dp" />
+
+            <RadioButton
+                android:id="@+id/rbSh3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:checked="false"
+                android:textColor="@color/color_primary_dark"
+                android:text="  Shift3"
+                android:textSize="20dp"
+                android:visibility="gone"/>
+
+            <RadioButton
+                android:id="@+id/rbSh4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:checked="false"
+                android:textColor="@color/color_primary_dark"
+                android:text="   Shift4"
+                android:textSize="20dp"
+                android:visibility="gone"/>
+        </RadioGroup>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/btnCancel"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:text="Cancel"/>
+
+            <Button
+                android:id="@+id/btnSave"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:text="Save"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</layout>
